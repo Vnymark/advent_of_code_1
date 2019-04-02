@@ -1,0 +1,2 @@
+﻿Assignment seems simple enough for now.
+Creating int's based on each row and adding them to the a variable should get the first part done.
